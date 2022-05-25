@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "Ansible",
+      "color": {
+        "a": 1,
+        "rgb": 15140872
+      }
+    },
+    {
+      "query": "Docker",
+      "color": {
+        "a": 1,
+        "rgb": 5615059
+      }
+    },
+    {
+      "query": "Kubernetes",
+      "color": {
+        "a": 1,
+        "rgb": 147310
+      }
+    },
+    {
+      "query": "Plantilla",
+      "color": {
+        "a": 1,
+        "rgb": 15728404
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.56581196581197,
+  "lineSizeMultiplier": 2.19401709401709,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8360386601669947,
+  "close": false
+}

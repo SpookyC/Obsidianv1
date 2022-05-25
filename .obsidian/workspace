@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "93f12226f06a321f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82932cf97cda2751",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4610d154d88dcba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a107d4c6ee7bacd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5085e098c6ed0e65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5403ba5fa3aa5a73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e56d4ac695ea5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "673a5b1bbda0b920",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c0ca35b1a5ab3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8361438692d00e48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e518cbe6184ba72f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e6af05a0bb087a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "82932cf97cda2751",
+  "lastOpenFiles": [
+    "Kubernetes/Kubernetes.md",
+    "Ansible/Anexos/Pasted image 20220429152343.png",
+    "Ansible/Arquitectura.md",
+    "Ansible/Ansible-Tower.md",
+    "Ansible/Ansible.md",
+    "Anexos/Pasted image 20220429151757.png",
+    "Anexos/Pasted image 20220429153537.png",
+    "PLANTILLAS/Plantilla Insertar  fecha actual.md",
+    "PLANTILLAS/Plantilla Final.md",
+    "Docker/Docker-swarm.md"
+  ]
+}

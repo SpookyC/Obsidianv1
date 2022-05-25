@@ -1,0 +1,50 @@
+{
+  "host": "https://demoexample.atlassian.net/wiki/spaces/TEST/pages/164084/Master+project+documentation",
+  "authenticationType": "BASIC",
+  "apiBasePath": "/rest/api/latest",
+  "password": "Saphirnad78?",
+  "cacheTime": "15m",
+  "searchResultsLimit": 10,
+  "statusColorCache": {},
+  "customFieldsNames": {},
+  "darkMode": false,
+  "searchColumns": [
+    {
+      "type": "KEY",
+      "compact": false
+    },
+    {
+      "type": "SUMMARY",
+      "compact": false
+    },
+    {
+      "type": "TYPE",
+      "compact": true
+    },
+    {
+      "type": "CREATED",
+      "compact": false
+    },
+    {
+      "type": "UPDATED",
+      "compact": false
+    },
+    {
+      "type": "REPORTER",
+      "compact": false
+    },
+    {
+      "type": "ASSIGNEE",
+      "compact": false
+    },
+    {
+      "type": "PRIORITY",
+      "compact": true
+    },
+    {
+      "type": "STATUS",
+      "compact": false
+    }
+  ],
+  "username": "jesuse.torres"
+}
